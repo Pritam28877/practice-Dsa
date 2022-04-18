@@ -1,4 +1,5 @@
-public class SmallestNumberExample4  
+import java.util.*;
+public class SmallestNumberExample4
 {  
 public static void main(String[] args)   
 {  
